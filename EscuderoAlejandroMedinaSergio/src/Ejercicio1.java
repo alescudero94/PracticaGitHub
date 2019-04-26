@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 		
-	// Constantes
+	// Constantes del Ejercicio1
 	private static final int EDAD_MAXIMA = 100;
 	private static final int LIMITE_NINNO = 12;
 	private static final int LIMITE_ADOLESCENTE = 17;
