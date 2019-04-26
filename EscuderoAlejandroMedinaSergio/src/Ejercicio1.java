@@ -12,6 +12,7 @@ public class Ejercicio1 {
 	
 	public static void main(String[] args) {
 		// Variables
+		//Cambio del alumno 1(Alejandro Escudero)
 		int edad;
 		
 		//Inicio
